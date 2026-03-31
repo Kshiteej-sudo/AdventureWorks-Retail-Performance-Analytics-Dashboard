@@ -215,4 +215,4 @@ Full customer ranking by orders and revenue with drill-through capability.
 
 ---
 
-*Built by Akhilesh Madwalkar | Power BI | DAX | Data Analytics*
+*Built by Kshiteej Salunke| Power BI | DAX | Data Analytics*
